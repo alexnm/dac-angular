@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  display: block;
+  font-size: 16px;
+  min-height: 100%;
+  font-family: 'Open Sans';
+  background-color: #fcfcfc;
+}
+.image {
+  width: 200px;
+}

@@ -1,0 +1,39 @@
+.container {
+  height: 500px;
+  display: block;
+  font-size: 16px;
+  font-family: 'Open Sans';
+  background-color: #1100d3;
+}
+.heading1 {
+  color: #ffffff;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+.button {
+  color: #000;
+  font-size: 13px;
+  padding-top: 5px;
+  border-color: #0089be;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+  border-radius: 4px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background-color: #fff;
+}
+.button1 {
+  color: #000;
+  font-size: 13px;
+  padding-top: 5px;
+  border-color: #0089be;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+  border-radius: 4px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background-color: #fff;
+}

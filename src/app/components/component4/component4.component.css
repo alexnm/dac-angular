@@ -1,0 +1,19 @@
+.container {
+  width: 382px;
+  height: 434px;
+  overflow: auto;
+  box-sizing: border-box;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.heading1 {
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+.textblock {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.image {
+  width: 200px;
+}

@@ -1,0 +1,26 @@
+.container {
+  width: auto;
+  height: 0;
+  display: block;
+  grid-gap: 10px;
+  overflow: auto;
+  font-size: 16px;
+  max-width: 120px;
+  max-height: 0;
+  align-items: stretch;
+  font-family: 'Open Sans';
+  align-content: stretch;
+  justify-items: stretch;
+  background-size: cover;
+  justify-content: stretch;
+  background-color: #af3232;
+  background-image: url('https://images.unsplash.com/photo-1571942662090-0d81d067ca19?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkxMzIxfQ');
+  grid-template-rows: 1;
+  grid-template-columns: 3;
+}
+.image {
+  width: 200px;
+}
+.image1 {
+  width: 200px;
+}

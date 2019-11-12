@@ -1,0 +1,43 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding: 10px;
+  position: static;
+  overflow-x: auto;
+  overflow-y: auto;
+  font-family: Open Sans;
+  background-color: #fcfcfc;
+}
+.navlink {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.container1 {
+  width: 100px;
+  height: 0;
+  display: flex;
+  overflow: auto;
+  box-sizing: border-box;
+  align-items: center;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.heading1 {
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+.textblock {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.container2 {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  overflow: auto;
+  box-sizing: border-box;
+  align-items: center;
+  background-color: #ffffff;
+}
